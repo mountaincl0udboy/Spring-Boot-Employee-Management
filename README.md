@@ -27,6 +27,31 @@ The following guides illustrate how to use some features concretely:
 * [Spring Boot and OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Authenticating a User with LDAP](https://spring.io/guides/gs/authenticating-ldap/)
 
+1. Create Employee REST API
+   HTTP Method: POST
+   Request URL: http://localhost:8080/api/v1/employees
+   ![image](https://user-images.githubusercontent.com/85111590/197002027-9f409038-9e1a-466f-b461-5d289bc4060b.png)
+
+2. Get Employee by ID REST API
+   HTTP Method: GET
+   Request URL: http://localhost:8080/api/v1/employees/1
+   ![image](https://user-images.githubusercontent.com/85111590/197002622-a869485d-af26-4337-94cd-9255f1cd31e2.png)
+
+3. Get all Employees REST API
+   HTTP Method: GET
+   Request URL: http://localhost:8080/api/v1/employees
+   ![image](https://user-images.githubusercontent.com/85111590/197002746-8094e896-1ed1-41d0-8a26-16f3d2a83bab.png)
+
+4. Update Employee REST API
+   HTTP Method: PUT
+   Request URL: http://localhost:8080/api/v1/employees/2
+   ![image](https://user-images.githubusercontent.com/85111590/197002933-188e46ea-2c40-4635-9695-6bb0e012c1b8.png)
+
+5. Delete Employee REST API
+   HTTP Method: DELETE
+   Request URL: http://localhost:8080/api/v1/employees/3
+   ![image](https://user-images.githubusercontent.com/85111590/197003160-06bc7c83-8927-4d64-a73b-66ddf4832fc5.png)
+
 ## Contact me
 - [Instagram](https://www.instagram.com/ogkkk.exe/)
 
@@ -59,6 +84,31 @@ The following guides illustrate how to use some features concretely:
 * [Защита веб-приложения](https://spring.io/guides/gs/securing-web/)
 * [Spring Boot и OAuth2](https://spring.io/guides/tutorials/spring-boot-oauth2/)
 * [Аутентификация пользователя с помощью LDAP](https://spring.io/guides/gs/authenticating-ldap/)
+
+1. Создать REST API для сотрудников
+   HTTP Method: POST
+   Request URL: http://localhost:8080/api/v1/employees
+   ![image](https://user-images.githubusercontent.com/85111590/197002027-9f409038-9e1a-466f-b461-5d289bc4060b.png)
+
+2. Получить сотрудника по идентификатору REST API
+   HTTP Method: GET
+   Request URL: http://localhost:8080/api/v1/employees/1
+   ![image](https://user-images.githubusercontent.com/85111590/197002622-a869485d-af26-4337-94cd-9255f1cd31e2.png)
+
+3. Получить все сотрудники REST API
+   HTTP Method: GET
+   Request URL: http://localhost:8080/api/v1/employees
+   ![image](https://user-images.githubusercontent.com/85111590/197002746-8094e896-1ed1-41d0-8a26-16f3d2a83bab.png)
+
+4. Обновить REST API сотрудников
+   HTTP Method: PUT
+   Request URL: http://localhost:8080/api/v1/employees/2
+   ![image](https://user-images.githubusercontent.com/85111590/197002933-188e46ea-2c40-4635-9695-6bb0e012c1b8.png)
+
+5. Удалить REST API сотрудника
+   HTTP Method: DELETE
+   Request URL: http://localhost:8080/api/v1/employees/3
+   ![image](https://user-images.githubusercontent.com/85111590/197003160-06bc7c83-8927-4d64-a73b-66ddf4832fc5.png)
 
 ## Связь со мной
 - [Instagram](https://www.instagram.com/ogkkk.exe/)
