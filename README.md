@@ -8,6 +8,7 @@ For further reference, please consider the following sections:
 * [JDK - 1.8 or later](https://www.oracle.com/java/technologies/downloads/)
 * [Spring Framework](https://spring.io/projects/spring-framework)
 * [Spring Data JPA (Hibernate)](https://spring.io/projects/spring-data-jpa)
+* Thymeleaf
 * Maven
 * PostgreSQL
 
@@ -37,6 +38,7 @@ The following guides illustrate how to use some features concretely:
 * [JDK - 1.8 or later](https://www.oracle.com/java/technologies/downloads/)
 * [Spring Framework](https://spring.io/projects/spring-framework)
 * [Spring Data JPA (Hibernate)](https://spring.io/projects/spring-data-jpa)
+* Thymeleaf
 * Maven
 * PostgreSQL
 
